@@ -5,12 +5,12 @@ public class CounCountUp : MonoBehaviour
 {
     public TextMeshProUGUI coinCount;
 
-    private int _count = 0;
+    public int count = 0;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        coinCount.text = "Coins: " + _count;
+        coinCount.text = "Coins: " + count;
     }
 
     // Update is called once per frame
@@ -21,7 +21,7 @@ public class CounCountUp : MonoBehaviour
 
     public void CountUp()
     {
-        _count++;
-        coinCount.text = "Coins: " + _count;
+        count++;
+        coinCount.text = "Coins: " + count;
     }
 }

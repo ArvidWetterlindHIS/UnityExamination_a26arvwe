@@ -14,6 +14,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/General/Player/Scripts/JumpStartFunParicles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/General/UI/Dialog/Scripts/Dialog.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1795180321231</updated>
-      <workItem from="1795180327545" duration="3705000" />
+      <workItem from="1795180327545" duration="5570000" />
     </task>
     <servers />
   </component>
